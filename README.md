@@ -57,7 +57,7 @@ All data from [Statistics Canada](https://www150.statcan.gc.ca) open data, retri
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/canada-economic-pulse.git
+git clone https://github.com/MBM-M/canada-economic-pulse.git
 cd canada-economic-pulse
 
 # 2. Install dependencies
