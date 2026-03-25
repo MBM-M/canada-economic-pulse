@@ -2,7 +2,7 @@
 
 An interactive data analysis of wages, housing costs, and employment trends across Canada (2014–2024), using Statistics Canada open data.
 
-**Live app:** [your-app-name.streamlit.app](#) *(add link after deploying)*
+**Live app:** https://canada-economic-pulse.onrender.com
 
 ---
 
@@ -18,7 +18,7 @@ An interactive data analysis of wages, housing costs, and employment trends acro
 ## Project Structure
 
 ```
-CstatCan/
+canada_economic_pulse/
 ├── 01_analysis.ipynb        # Exploratory analysis + all 3 charts
 ├── clean_data.py            # Cleans and processes raw StatCan CSVs
 ├── fetch_data.py            # Downloads raw CSVs from StatCan API
@@ -35,6 +35,7 @@ CstatCan/
 │   ├── cpi.csv
 │   └── wages.csv
 ├── requirements.txt
+├── runtime.txt
 └── README.md
 ```
 
