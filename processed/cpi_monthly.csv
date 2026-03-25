@@ -1,0 +1,243 @@
+date,year,month,geo,component,cpi
+2014-01-01,2014,1,Canada,All-items,125.2
+2014-01-01,2014,1,Canada,Shelter,132.2
+2014-01-01,2014,1,Newfoundland and Labrador,All-items,128.4
+2014-01-01,2014,1,Newfoundland and Labrador,Shelter,150.0
+2014-01-01,2014,1,Prince Edward Island,All-items,130.1
+2014-01-01,2014,1,Prince Edward Island,Shelter,135.2
+2014-01-01,2014,1,Nova Scotia,All-items,128.8
+2014-01-01,2014,1,Nova Scotia,Shelter,141.1
+2014-01-01,2014,1,New Brunswick,All-items,124.8
+2014-01-01,2014,1,New Brunswick,Shelter,129.2
+2014-01-01,2014,1,Quebec,All-items,123.4
+2014-01-01,2014,1,Quebec,Shelter,128.1
+2014-01-01,2014,1,Ontario,All-items,125.9
+2014-01-01,2014,1,Ontario,Shelter,131.5
+2014-01-01,2014,1,Manitoba,All-items,125.3
+2014-01-01,2014,1,Manitoba,Shelter,135.4
+2014-01-01,2014,1,Saskatchewan,All-items,128.7
+2014-01-01,2014,1,Saskatchewan,Shelter,154.4
+2014-01-01,2014,1,Alberta,All-items,132.2
+2014-01-01,2014,1,Alberta,Shelter,162.5
+2014-01-01,2014,1,British Columbia,All-items,118.9
+2014-01-01,2014,1,British Columbia,Shelter,114.2
+2015-01-01,2015,1,Canada,All-items,126.6
+2015-01-01,2015,1,Canada,Shelter,133.7
+2015-01-01,2015,1,Newfoundland and Labrador,All-items,129.0
+2015-01-01,2015,1,Newfoundland and Labrador,Shelter,150.1
+2015-01-01,2015,1,Prince Edward Island,All-items,129.3
+2015-01-01,2015,1,Prince Edward Island,Shelter,131.8
+2015-01-01,2015,1,Nova Scotia,All-items,129.3
+2015-01-01,2015,1,Nova Scotia,Shelter,139.7
+2015-01-01,2015,1,New Brunswick,All-items,125.4
+2015-01-01,2015,1,New Brunswick,Shelter,129.5
+2015-01-01,2015,1,Quebec,All-items,124.7
+2015-01-01,2015,1,Quebec,Shelter,128.7
+2015-01-01,2015,1,Ontario,All-items,127.4
+2015-01-01,2015,1,Ontario,Shelter,134.5
+2015-01-01,2015,1,Manitoba,All-items,126.8
+2015-01-01,2015,1,Manitoba,Shelter,137.8
+2015-01-01,2015,1,Saskatchewan,All-items,130.8
+2015-01-01,2015,1,Saskatchewan,Shelter,158.7
+2015-01-01,2015,1,Alberta,All-items,133.7
+2015-01-01,2015,1,Alberta,Shelter,162.9
+2015-01-01,2015,1,British Columbia,All-items,120.2
+2015-01-01,2015,1,British Columbia,Shelter,114.1
+2016-01-01,2016,1,Canada,All-items,128.4
+2016-01-01,2016,1,Canada,Shelter,135.8
+2016-01-01,2016,1,Newfoundland and Labrador,All-items,132.5
+2016-01-01,2016,1,Newfoundland and Labrador,Shelter,152.2
+2016-01-01,2016,1,Prince Edward Island,All-items,130.8
+2016-01-01,2016,1,Prince Edward Island,Shelter,131.4
+2016-01-01,2016,1,Nova Scotia,All-items,130.9
+2016-01-01,2016,1,Nova Scotia,Shelter,139.4
+2016-01-01,2016,1,New Brunswick,All-items,128.2
+2016-01-01,2016,1,New Brunswick,Shelter,131.7
+2016-01-01,2016,1,Quebec,All-items,125.6
+2016-01-01,2016,1,Quebec,Shelter,129.8
+2016-01-01,2016,1,Ontario,All-items,129.7
+2016-01-01,2016,1,Ontario,Shelter,138.1
+2016-01-01,2016,1,Manitoba,All-items,128.4
+2016-01-01,2016,1,Manitoba,Shelter,140.6
+2016-01-01,2016,1,Saskatchewan,All-items,132.2
+2016-01-01,2016,1,Saskatchewan,Shelter,160.5
+2016-01-01,2016,1,Alberta,All-items,135.2
+2016-01-01,2016,1,Alberta,Shelter,162.5
+2016-01-01,2016,1,British Columbia,All-items,122.4
+2016-01-01,2016,1,British Columbia,Shelter,115.7
+2017-01-01,2017,1,Canada,All-items,130.4
+2017-01-01,2017,1,Canada,Shelter,138.1
+2017-01-01,2017,1,Newfoundland and Labrador,All-items,135.7
+2017-01-01,2017,1,Newfoundland and Labrador,Shelter,155.7
+2017-01-01,2017,1,Prince Edward Island,All-items,133.2
+2017-01-01,2017,1,Prince Edward Island,Shelter,133.8
+2017-01-01,2017,1,Nova Scotia,All-items,132.4
+2017-01-01,2017,1,Nova Scotia,Shelter,141.7
+2017-01-01,2017,1,New Brunswick,All-items,131.2
+2017-01-01,2017,1,New Brunswick,Shelter,134.6
+2017-01-01,2017,1,Quebec,All-items,126.9
+2017-01-01,2017,1,Quebec,Shelter,131.0
+2017-01-01,2017,1,Ontario,All-items,131.9
+2017-01-01,2017,1,Ontario,Shelter,140.4
+2017-01-01,2017,1,Manitoba,All-items,130.5
+2017-01-01,2017,1,Manitoba,Shelter,144.4
+2017-01-01,2017,1,Saskatchewan,All-items,134.4
+2017-01-01,2017,1,Saskatchewan,Shelter,163.5
+2017-01-01,2017,1,Alberta,All-items,137.3
+2017-01-01,2017,1,Alberta,Shelter,164.6
+2017-01-01,2017,1,British Columbia,All-items,125.0
+2017-01-01,2017,1,British Columbia,Shelter,118.7
+2018-01-01,2018,1,Canada,All-items,133.4
+2018-01-01,2018,1,Canada,Shelter,140.9
+2018-01-01,2018,1,Newfoundland and Labrador,All-items,137.9
+2018-01-01,2018,1,Newfoundland and Labrador,Shelter,161.0
+2018-01-01,2018,1,Prince Edward Island,All-items,136.3
+2018-01-01,2018,1,Prince Edward Island,Shelter,138.2
+2018-01-01,2018,1,Nova Scotia,All-items,135.3
+2018-01-01,2018,1,Nova Scotia,Shelter,146.1
+2018-01-01,2018,1,New Brunswick,All-items,134.0
+2018-01-01,2018,1,New Brunswick,Shelter,137.5
+2018-01-01,2018,1,Quebec,All-items,129.0
+2018-01-01,2018,1,Quebec,Shelter,133.0
+2018-01-01,2018,1,Ontario,All-items,135.0
+2018-01-01,2018,1,Ontario,Shelter,142.7
+2018-01-01,2018,1,Manitoba,All-items,133.8
+2018-01-01,2018,1,Manitoba,Shelter,148.8
+2018-01-01,2018,1,Saskatchewan,All-items,137.5
+2018-01-01,2018,1,Saskatchewan,Shelter,167.4
+2018-01-01,2018,1,Alberta,All-items,140.6
+2018-01-01,2018,1,Alberta,Shelter,168.3
+2018-01-01,2018,1,British Columbia,All-items,128.4
+2018-01-01,2018,1,British Columbia,Shelter,122.5
+2019-01-01,2019,1,Canada,All-items,136.0
+2019-01-01,2019,1,Canada,Shelter,144.5
+2019-01-01,2019,1,Newfoundland and Labrador,All-items,139.3
+2019-01-01,2019,1,Newfoundland and Labrador,Shelter,163.4
+2019-01-01,2019,1,Prince Edward Island,All-items,137.9
+2019-01-01,2019,1,Prince Edward Island,Shelter,139.0
+2019-01-01,2019,1,Nova Scotia,All-items,137.5
+2019-01-01,2019,1,Nova Scotia,Shelter,149.2
+2019-01-01,2019,1,New Brunswick,All-items,136.3
+2019-01-01,2019,1,New Brunswick,Shelter,140.2
+2019-01-01,2019,1,Quebec,All-items,131.7
+2019-01-01,2019,1,Quebec,Shelter,135.6
+2019-01-01,2019,1,Ontario,All-items,137.5
+2019-01-01,2019,1,Ontario,Shelter,147.0
+2019-01-01,2019,1,Manitoba,All-items,136.8
+2019-01-01,2019,1,Manitoba,Shelter,153.5
+2019-01-01,2019,1,Saskatchewan,All-items,139.9
+2019-01-01,2019,1,Saskatchewan,Shelter,170.4
+2019-01-01,2019,1,Alberta,All-items,143.1
+2019-01-01,2019,1,Alberta,Shelter,172.3
+2019-01-01,2019,1,British Columbia,All-items,131.4
+2019-01-01,2019,1,British Columbia,Shelter,125.4
+2020-01-01,2020,1,Canada,All-items,137.0
+2020-01-01,2020,1,Canada,Shelter,147.0
+2020-01-01,2020,1,Newfoundland and Labrador,All-items,139.6
+2020-01-01,2020,1,Newfoundland and Labrador,Shelter,165.2
+2020-01-01,2020,1,Prince Edward Island,All-items,137.9
+2020-01-01,2020,1,Prince Edward Island,Shelter,137.8
+2020-01-01,2020,1,Nova Scotia,All-items,137.9
+2020-01-01,2020,1,Nova Scotia,Shelter,150.0
+2020-01-01,2020,1,New Brunswick,All-items,136.6
+2020-01-01,2020,1,New Brunswick,Shelter,142.1
+2020-01-01,2020,1,Quebec,All-items,132.8
+2020-01-01,2020,1,Quebec,Shelter,137.6
+2020-01-01,2020,1,Ontario,All-items,138.4
+2020-01-01,2020,1,Ontario,Shelter,150.1
+2020-01-01,2020,1,Manitoba,All-items,137.5
+2020-01-01,2020,1,Manitoba,Shelter,156.1
+2020-01-01,2020,1,Saskatchewan,All-items,140.7
+2020-01-01,2020,1,Saskatchewan,Shelter,171.9
+2020-01-01,2020,1,Alberta,All-items,144.7
+2020-01-01,2020,1,Alberta,Shelter,174.6
+2020-01-01,2020,1,British Columbia,All-items,132.4
+2020-01-01,2020,1,British Columbia,Shelter,127.2
+2021-01-01,2021,1,Canada,All-items,141.6
+2021-01-01,2021,1,Canada,Shelter,152.7
+2021-01-01,2021,1,Newfoundland and Labrador,All-items,144.7
+2021-01-01,2021,1,Newfoundland and Labrador,Shelter,169.3
+2021-01-01,2021,1,Prince Edward Island,All-items,144.9
+2021-01-01,2021,1,Prince Edward Island,Shelter,149.5
+2021-01-01,2021,1,Nova Scotia,All-items,143.5
+2021-01-01,2021,1,Nova Scotia,Shelter,157.2
+2021-01-01,2021,1,New Brunswick,All-items,141.8
+2021-01-01,2021,1,New Brunswick,Shelter,147.1
+2021-01-01,2021,1,Quebec,All-items,137.8
+2021-01-01,2021,1,Quebec,Shelter,142.1
+2021-01-01,2021,1,Ontario,All-items,143.2
+2021-01-01,2021,1,Ontario,Shelter,156.5
+2021-01-01,2021,1,Manitoba,All-items,142.0
+2021-01-01,2021,1,Manitoba,Shelter,163.3
+2021-01-01,2021,1,Saskatchewan,All-items,144.4
+2021-01-01,2021,1,Saskatchewan,Shelter,173.2
+2021-01-01,2021,1,Alberta,All-items,149.3
+2021-01-01,2021,1,Alberta,Shelter,180.2
+2021-01-01,2021,1,British Columbia,All-items,136.1
+2021-01-01,2021,1,British Columbia,Shelter,132.7
+2022-01-01,2022,1,Canada,All-items,151.2
+2022-01-01,2022,1,Canada,Shelter,163.3
+2022-01-01,2022,1,Newfoundland and Labrador,All-items,153.9
+2022-01-01,2022,1,Newfoundland and Labrador,Shelter,180.2
+2022-01-01,2022,1,Prince Edward Island,All-items,157.8
+2022-01-01,2022,1,Prince Edward Island,Shelter,168.6
+2022-01-01,2022,1,Nova Scotia,All-items,154.3
+2022-01-01,2022,1,Nova Scotia,Shelter,170.7
+2022-01-01,2022,1,New Brunswick,All-items,152.1
+2022-01-01,2022,1,New Brunswick,Shelter,157.6
+2022-01-01,2022,1,Quebec,All-items,147.0
+2022-01-01,2022,1,Quebec,Shelter,150.8
+2022-01-01,2022,1,Ontario,All-items,152.9
+2022-01-01,2022,1,Ontario,Shelter,167.6
+2022-01-01,2022,1,Manitoba,All-items,153.2
+2022-01-01,2022,1,Manitoba,Shelter,175.7
+2022-01-01,2022,1,Saskatchewan,All-items,153.9
+2022-01-01,2022,1,Saskatchewan,Shelter,182.2
+2022-01-01,2022,1,Alberta,All-items,158.9
+2022-01-01,2022,1,Alberta,Shelter,192.1
+2022-01-01,2022,1,British Columbia,All-items,145.5
+2022-01-01,2022,1,British Columbia,Shelter,142.8
+2023-01-01,2023,1,Canada,All-items,157.1
+2023-01-01,2023,1,Canada,Shelter,172.5
+2023-01-01,2023,1,Newfoundland and Labrador,All-items,159.0
+2023-01-01,2023,1,Newfoundland and Labrador,Shelter,189.1
+2023-01-01,2023,1,Prince Edward Island,All-items,162.3
+2023-01-01,2023,1,Prince Edward Island,Shelter,172.5
+2023-01-01,2023,1,Nova Scotia,All-items,160.5
+2023-01-01,2023,1,Nova Scotia,Shelter,179.9
+2023-01-01,2023,1,New Brunswick,All-items,157.5
+2023-01-01,2023,1,New Brunswick,Shelter,164.7
+2023-01-01,2023,1,Quebec,All-items,153.6
+2023-01-01,2023,1,Quebec,Shelter,160.2
+2023-01-01,2023,1,Ontario,All-items,158.7
+2023-01-01,2023,1,Ontario,Shelter,176.4
+2023-01-01,2023,1,Manitoba,All-items,158.6
+2023-01-01,2023,1,Manitoba,Shelter,184.6
+2023-01-01,2023,1,Saskatchewan,All-items,160.0
+2023-01-01,2023,1,Saskatchewan,Shelter,193.6
+2023-01-01,2023,1,Alberta,All-items,164.1
+2023-01-01,2023,1,Alberta,Shelter,204.7
+2023-01-01,2023,1,British Columbia,All-items,151.2
+2023-01-01,2023,1,British Columbia,Shelter,150.9
+2024-01-01,2024,1,Canada,All-items,160.9
+2024-01-01,2024,1,Canada,Shelter,182.3
+2024-01-01,2024,1,Newfoundland and Labrador,All-items,161.9
+2024-01-01,2024,1,Newfoundland and Labrador,Shelter,197.8
+2024-01-01,2024,1,Prince Edward Island,All-items,165.3
+2024-01-01,2024,1,Prince Edward Island,Shelter,177.6
+2024-01-01,2024,1,Nova Scotia,All-items,164.2
+2024-01-01,2024,1,Nova Scotia,Shelter,188.6
+2024-01-01,2024,1,New Brunswick,All-items,161.0
+2024-01-01,2024,1,New Brunswick,Shelter,173.7
+2024-01-01,2024,1,Quebec,All-items,157.2
+2024-01-01,2024,1,Quebec,Shelter,170.5
+2024-01-01,2024,1,Ontario,All-items,162.5
+2024-01-01,2024,1,Ontario,Shelter,185.5
+2024-01-01,2024,1,Manitoba,All-items,160.3
+2024-01-01,2024,1,Manitoba,Shelter,193.6
+2024-01-01,2024,1,Saskatchewan,All-items,162.3
+2024-01-01,2024,1,Saskatchewan,Shelter,200.8
+2024-01-01,2024,1,Alberta,All-items,168.9
+2024-01-01,2024,1,Alberta,Shelter,219.1
+2024-01-01,2024,1,British Columbia,All-items,155.2
+2024-01-01,2024,1,British Columbia,Shelter,160.1

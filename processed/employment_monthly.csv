@@ -1,0 +1,309 @@
+date,year,month,industry,employed_thousands
+2014-01-01,2014,1,"Total, all industries",17738.5
+2014-01-01,2014,1,Goods-producing sector,3902.9
+2014-01-01,2014,1,"Agriculture [111-112, 1100, 1151-1152]",303.3
+2014-01-01,2014,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",370.6
+2014-01-01,2014,1,"Forestry and logging and support activities for forestry [113, 1153]",48.4
+2014-01-01,2014,1,"Fishing, hunting and trapping [114]",15.9
+2014-01-01,2014,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",306.3
+2014-01-01,2014,1,Utilities [22],134.9
+2014-01-01,2014,1,Construction [23],1365.1
+2014-01-01,2014,1,Manufacturing [31-33],1729.0
+2014-01-01,2014,1,"Durables [321, 327, 331-339]",1039.5
+2014-01-01,2014,1,"Non-durables [311-316, 322-326]",689.4
+2014-01-01,2014,1,Services-producing sector,13835.6
+2014-01-01,2014,1,"Wholesale and retail trade [41, 44-45]",2778.9
+2014-01-01,2014,1,Wholesale trade [41],639.4
+2014-01-01,2014,1,Retail trade [44-45],2139.4
+2014-01-01,2014,1,Transportation and warehousing [48-49],891.9
+2014-01-01,2014,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1096.2
+2014-01-01,2014,1,Finance and insurance [52],791.3
+2014-01-01,2014,1,Real estate and rental and leasing [53],304.9
+2014-01-01,2014,1,"Professional, scientific and technical services [54]",1325.5
+2014-01-01,2014,1,"Business, building and other support services [55, 56]",724.8
+2014-01-01,2014,1,Educational services [61],1223.9
+2014-01-01,2014,1,Health care and social assistance [62],2195.4
+2014-01-01,2014,1,"Information, culture and recreation [51, 71]",752.9
+2014-01-01,2014,1,Accommodation and food services [72],1180.0
+2014-01-01,2014,1,Other services (except public administration) [81],760.9
+2014-01-01,2014,1,Public administration [91],905.3
+2015-01-01,2015,1,"Total, all industries",17857.2
+2015-01-01,2015,1,Goods-producing sector,3875.3
+2015-01-01,2015,1,"Agriculture [111-112, 1100, 1151-1152]",293.5
+2015-01-01,2015,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",357.7
+2015-01-01,2015,1,"Forestry and logging and support activities for forestry [113, 1153]",50.2
+2015-01-01,2015,1,"Fishing, hunting and trapping [114]",17.0
+2015-01-01,2015,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",290.5
+2015-01-01,2015,1,Utilities [22],135.1
+2015-01-01,2015,1,Construction [23],1353.8
+2015-01-01,2015,1,Manufacturing [31-33],1735.4
+2015-01-01,2015,1,"Durables [321, 327, 331-339]",1043.0
+2015-01-01,2015,1,"Non-durables [311-316, 322-326]",692.3
+2015-01-01,2015,1,Services-producing sector,13981.9
+2015-01-01,2015,1,"Wholesale and retail trade [41, 44-45]",2769.8
+2015-01-01,2015,1,Wholesale trade [41],681.8
+2015-01-01,2015,1,Retail trade [44-45],2088.0
+2015-01-01,2015,1,Transportation and warehousing [48-49],905.0
+2015-01-01,2015,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1109.2
+2015-01-01,2015,1,Finance and insurance [52],794.8
+2015-01-01,2015,1,Real estate and rental and leasing [53],314.4
+2015-01-01,2015,1,"Professional, scientific and technical services [54]",1355.6
+2015-01-01,2015,1,"Business, building and other support services [55, 56]",745.6
+2015-01-01,2015,1,Educational services [61],1266.5
+2015-01-01,2015,1,Health care and social assistance [62],2245.8
+2015-01-01,2015,1,"Information, culture and recreation [51, 71]",742.3
+2015-01-01,2015,1,Accommodation and food services [72],1199.3
+2015-01-01,2015,1,Other services (except public administration) [81],743.2
+2015-01-01,2015,1,Public administration [91],899.6
+2016-01-01,2016,1,"Total, all industries",17966.9
+2016-01-01,2016,1,Goods-producing sector,3844.6
+2016-01-01,2016,1,"Agriculture [111-112, 1100, 1151-1152]",284.6
+2016-01-01,2016,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",319.6
+2016-01-01,2016,1,"Forestry and logging and support activities for forestry [113, 1153]",45.4
+2016-01-01,2016,1,"Fishing, hunting and trapping [114]",15.8
+2016-01-01,2016,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",258.5
+2016-01-01,2016,1,Utilities [22],135.5
+2016-01-01,2016,1,Construction [23],1377.0
+2016-01-01,2016,1,Manufacturing [31-33],1727.9
+2016-01-01,2016,1,"Durables [321, 327, 331-339]",1052.9
+2016-01-01,2016,1,"Non-durables [311-316, 322-326]",675.0
+2016-01-01,2016,1,Services-producing sector,14122.3
+2016-01-01,2016,1,"Wholesale and retail trade [41, 44-45]",2791.0
+2016-01-01,2016,1,Wholesale trade [41],692.8
+2016-01-01,2016,1,Retail trade [44-45],2098.1
+2016-01-01,2016,1,Transportation and warehousing [48-49],909.9
+2016-01-01,2016,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1131.4
+2016-01-01,2016,1,Finance and insurance [52],818.0
+2016-01-01,2016,1,Real estate and rental and leasing [53],313.4
+2016-01-01,2016,1,"Professional, scientific and technical services [54]",1371.1
+2016-01-01,2016,1,"Business, building and other support services [55, 56]",743.6
+2016-01-01,2016,1,Educational services [61],1261.6
+2016-01-01,2016,1,Health care and social assistance [62],2281.7
+2016-01-01,2016,1,"Information, culture and recreation [51, 71]",769.8
+2016-01-01,2016,1,Accommodation and food services [72],1205.0
+2016-01-01,2016,1,Other services (except public administration) [81],759.8
+2016-01-01,2016,1,Public administration [91],897.4
+2017-01-01,2017,1,"Total, all industries",18372.2
+2017-01-01,2017,1,Goods-producing sector,3912.2
+2017-01-01,2017,1,"Agriculture [111-112, 1100, 1151-1152]",278.0
+2017-01-01,2017,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",321.5
+2017-01-01,2017,1,"Forestry and logging and support activities for forestry [113, 1153]",46.8
+2017-01-01,2017,1,"Fishing, hunting and trapping [114]",17.5
+2017-01-01,2017,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",257.2
+2017-01-01,2017,1,Utilities [22],127.5
+2017-01-01,2017,1,Construction [23],1419.5
+2017-01-01,2017,1,Manufacturing [31-33],1765.6
+2017-01-01,2017,1,"Durables [321, 327, 331-339]",1067.9
+2017-01-01,2017,1,"Non-durables [311-316, 322-326]",697.7
+2017-01-01,2017,1,Services-producing sector,14460.0
+2017-01-01,2017,1,"Wholesale and retail trade [41, 44-45]",2874.4
+2017-01-01,2017,1,Wholesale trade [41],696.3
+2017-01-01,2017,1,Retail trade [44-45],2178.1
+2017-01-01,2017,1,Transportation and warehousing [48-49],937.7
+2017-01-01,2017,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1170.9
+2017-01-01,2017,1,Finance and insurance [52],834.8
+2017-01-01,2017,1,Real estate and rental and leasing [53],336.1
+2017-01-01,2017,1,"Professional, scientific and technical services [54]",1429.1
+2017-01-01,2017,1,"Business, building and other support services [55, 56]",747.3
+2017-01-01,2017,1,Educational services [61],1267.5
+2017-01-01,2017,1,Health care and social assistance [62],2342.2
+2017-01-01,2017,1,"Information, culture and recreation [51, 71]",774.7
+2017-01-01,2017,1,Accommodation and food services [72],1217.9
+2017-01-01,2017,1,Other services (except public administration) [81],775.5
+2017-01-01,2017,1,Public administration [91],922.7
+2018-01-01,2018,1,"Total, all industries",18706.6
+2018-01-01,2018,1,Goods-producing sector,3978.3
+2018-01-01,2018,1,"Agriculture [111-112, 1100, 1151-1152]",284.6
+2018-01-01,2018,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",332.7
+2018-01-01,2018,1,"Forestry and logging and support activities for forestry [113, 1153]",49.4
+2018-01-01,2018,1,"Fishing, hunting and trapping [114]",17.3
+2018-01-01,2018,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",266.0
+2018-01-01,2018,1,Utilities [22],140.1
+2018-01-01,2018,1,Construction [23],1436.5
+2018-01-01,2018,1,Manufacturing [31-33],1784.5
+2018-01-01,2018,1,"Durables [321, 327, 331-339]",1075.0
+2018-01-01,2018,1,"Non-durables [311-316, 322-326]",709.5
+2018-01-01,2018,1,Services-producing sector,14728.4
+2018-01-01,2018,1,"Wholesale and retail trade [41, 44-45]",2883.3
+2018-01-01,2018,1,Wholesale trade [41],676.8
+2018-01-01,2018,1,Retail trade [44-45],2206.5
+2018-01-01,2018,1,Transportation and warehousing [48-49],979.5
+2018-01-01,2018,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1198.4
+2018-01-01,2018,1,Finance and insurance [52],848.2
+2018-01-01,2018,1,Real estate and rental and leasing [53],350.2
+2018-01-01,2018,1,"Professional, scientific and technical services [54]",1471.0
+2018-01-01,2018,1,"Business, building and other support services [55, 56]",771.2
+2018-01-01,2018,1,Educational services [61],1292.8
+2018-01-01,2018,1,Health care and social assistance [62],2396.4
+2018-01-01,2018,1,"Information, culture and recreation [51, 71]",773.8
+2018-01-01,2018,1,Accommodation and food services [72],1237.3
+2018-01-01,2018,1,Other services (except public administration) [81],787.7
+2018-01-01,2018,1,Public administration [91],937.0
+2019-01-01,2019,1,"Total, all industries",19070.8
+2019-01-01,2019,1,Goods-producing sector,3988.9
+2019-01-01,2019,1,"Agriculture [111-112, 1100, 1151-1152]",293.7
+2019-01-01,2019,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",332.3
+2019-01-01,2019,1,"Forestry and logging and support activities for forestry [113, 1153]",46.7
+2019-01-01,2019,1,"Fishing, hunting and trapping [114]",17.4
+2019-01-01,2019,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",268.3
+2019-01-01,2019,1,Utilities [22],133.4
+2019-01-01,2019,1,Construction [23],1472.2
+2019-01-01,2019,1,Manufacturing [31-33],1757.2
+2019-01-01,2019,1,"Durables [321, 327, 331-339]",1057.2
+2019-01-01,2019,1,"Non-durables [311-316, 322-326]",700.0
+2019-01-01,2019,1,Services-producing sector,15081.9
+2019-01-01,2019,1,"Wholesale and retail trade [41, 44-45]",2930.5
+2019-01-01,2019,1,Wholesale trade [41],666.0
+2019-01-01,2019,1,Retail trade [44-45],2264.5
+2019-01-01,2019,1,Transportation and warehousing [48-49],1029.8
+2019-01-01,2019,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1232.2
+2019-01-01,2019,1,Finance and insurance [52],867.4
+2019-01-01,2019,1,Real estate and rental and leasing [53],364.7
+2019-01-01,2019,1,"Professional, scientific and technical services [54]",1556.6
+2019-01-01,2019,1,"Business, building and other support services [55, 56]",761.8
+2019-01-01,2019,1,Educational services [61],1325.8
+2019-01-01,2019,1,Health care and social assistance [62],2474.6
+2019-01-01,2019,1,"Information, culture and recreation [51, 71]",778.7
+2019-01-01,2019,1,Accommodation and food services [72],1218.5
+2019-01-01,2019,1,Other services (except public administration) [81],789.1
+2019-01-01,2019,1,Public administration [91],984.2
+2020-01-01,2020,1,"Total, all industries",18068.5
+2020-01-01,2020,1,Goods-producing sector,3815.4
+2020-01-01,2020,1,"Agriculture [111-112, 1100, 1151-1152]",281.1
+2020-01-01,2020,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",306.8
+2020-01-01,2020,1,"Forestry and logging and support activities for forestry [113, 1153]",49.8
+2020-01-01,2020,1,"Fishing, hunting and trapping [114]",19.3
+2020-01-01,2020,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",237.7
+2020-01-01,2020,1,Utilities [22],133.8
+2020-01-01,2020,1,Construction [23],1414.2
+2020-01-01,2020,1,Manufacturing [31-33],1679.5
+2020-01-01,2020,1,"Durables [321, 327, 331-339]",996.6
+2020-01-01,2020,1,"Non-durables [311-316, 322-326]",682.9
+2020-01-01,2020,1,Services-producing sector,14253.1
+2020-01-01,2020,1,"Wholesale and retail trade [41, 44-45]",2762.5
+2020-01-01,2020,1,Wholesale trade [41],637.7
+2020-01-01,2020,1,Retail trade [44-45],2124.7
+2020-01-01,2020,1,Transportation and warehousing [48-49],945.7
+2020-01-01,2020,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1236.6
+2020-01-01,2020,1,Finance and insurance [52],912.8
+2020-01-01,2020,1,Real estate and rental and leasing [53],323.8
+2020-01-01,2020,1,"Professional, scientific and technical services [54]",1567.3
+2020-01-01,2020,1,"Business, building and other support services [55, 56]",685.7
+2020-01-01,2020,1,Educational services [61],1319.5
+2020-01-01,2020,1,Health care and social assistance [62],2409.1
+2020-01-01,2020,1,"Information, culture and recreation [51, 71]",677.1
+2020-01-01,2020,1,Accommodation and food services [72],947.1
+2020-01-01,2020,1,Other services (except public administration) [81],704.6
+2020-01-01,2020,1,Public administration [91],997.9
+2021-01-01,2021,1,"Total, all industries",18964.1
+2021-01-01,2021,1,Goods-producing sector,3946.5
+2021-01-01,2021,1,"Agriculture [111-112, 1100, 1151-1152]",261.8
+2021-01-01,2021,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",325.9
+2021-01-01,2021,1,"Forestry and logging and support activities for forestry [113, 1153]",48.7
+2021-01-01,2021,1,"Fishing, hunting and trapping [114]",19.1
+2021-01-01,2021,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",258.1
+2021-01-01,2021,1,Utilities [22],140.7
+2021-01-01,2021,1,Construction [23],1461.1
+2021-01-01,2021,1,Manufacturing [31-33],1757.0
+2021-01-01,2021,1,"Durables [321, 327, 331-339]",1042.9
+2021-01-01,2021,1,"Non-durables [311-316, 322-326]",714.2
+2021-01-01,2021,1,Services-producing sector,15017.6
+2021-01-01,2021,1,"Wholesale and retail trade [41, 44-45]",2879.7
+2021-01-01,2021,1,Wholesale trade [41],657.6
+2021-01-01,2021,1,Retail trade [44-45],2222.2
+2021-01-01,2021,1,Transportation and warehousing [48-49],986.7
+2021-01-01,2021,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1320.5
+2021-01-01,2021,1,Finance and insurance [52],963.9
+2021-01-01,2021,1,Real estate and rental and leasing [53],356.6
+2021-01-01,2021,1,"Professional, scientific and technical services [54]",1699.5
+2021-01-01,2021,1,"Business, building and other support services [55, 56]",683.3
+2021-01-01,2021,1,Educational services [61],1450.9
+2021-01-01,2021,1,Health care and social assistance [62],2525.4
+2021-01-01,2021,1,"Information, culture and recreation [51, 71]",715.1
+2021-01-01,2021,1,Accommodation and food services [72],962.7
+2021-01-01,2021,1,Other services (except public administration) [81],717.0
+2021-01-01,2021,1,Public administration [91],1076.7
+2022-01-01,2022,1,"Total, all industries",19739.5
+2022-01-01,2022,1,Goods-producing sector,4091.2
+2022-01-01,2022,1,"Agriculture [111-112, 1100, 1151-1152]",261.7
+2022-01-01,2022,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",328.1
+2022-01-01,2022,1,"Forestry and logging and support activities for forestry [113, 1153]",46.4
+2022-01-01,2022,1,"Fishing, hunting and trapping [114]",16.9
+2022-01-01,2022,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",264.8
+2022-01-01,2022,1,Utilities [22],150.8
+2022-01-01,2022,1,Construction [23],1552.6
+2022-01-01,2022,1,Manufacturing [31-33],1797.9
+2022-01-01,2022,1,"Durables [321, 327, 331-339]",1071.8
+2022-01-01,2022,1,"Non-durables [311-316, 322-326]",726.1
+2022-01-01,2022,1,Services-producing sector,15648.3
+2022-01-01,2022,1,"Wholesale and retail trade [41, 44-45]",2989.5
+2022-01-01,2022,1,Wholesale trade [41],690.0
+2022-01-01,2022,1,Retail trade [44-45],2299.5
+2022-01-01,2022,1,Transportation and warehousing [48-49],990.4
+2022-01-01,2022,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1360.2
+2022-01-01,2022,1,Finance and insurance [52],993.8
+2022-01-01,2022,1,Real estate and rental and leasing [53],366.4
+2022-01-01,2022,1,"Professional, scientific and technical services [54]",1818.1
+2022-01-01,2022,1,"Business, building and other support services [55, 56]",690.9
+2022-01-01,2022,1,Educational services [61],1480.1
+2022-01-01,2022,1,Health care and social assistance [62],2615.5
+2022-01-01,2022,1,"Information, culture and recreation [51, 71]",809.5
+2022-01-01,2022,1,Accommodation and food services [72],1042.2
+2022-01-01,2022,1,Other services (except public administration) [81],710.2
+2022-01-01,2022,1,Public administration [91],1141.7
+2023-01-01,2023,1,"Total, all industries",20334.8
+2023-01-01,2023,1,Goods-producing sector,4192.8
+2023-01-01,2023,1,"Agriculture [111-112, 1100, 1151-1152]",258.0
+2023-01-01,2023,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",331.0
+2023-01-01,2023,1,"Forestry and logging and support activities for forestry [113, 1153]",37.9
+2023-01-01,2023,1,"Fishing, hunting and trapping [114]",15.6
+2023-01-01,2023,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",277.6
+2023-01-01,2023,1,Utilities [22],159.2
+2023-01-01,2023,1,Construction [23],1601.0
+2023-01-01,2023,1,Manufacturing [31-33],1843.5
+2023-01-01,2023,1,"Durables [321, 327, 331-339]",1121.8
+2023-01-01,2023,1,"Non-durables [311-316, 322-326]",721.7
+2023-01-01,2023,1,Services-producing sector,16141.9
+2023-01-01,2023,1,"Wholesale and retail trade [41, 44-45]",2989.5
+2023-01-01,2023,1,Wholesale trade [41],699.0
+2023-01-01,2023,1,Retail trade [44-45],2290.4
+2023-01-01,2023,1,Transportation and warehousing [48-49],1033.7
+2023-01-01,2023,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1384.9
+2023-01-01,2023,1,Finance and insurance [52],1020.5
+2023-01-01,2023,1,Real estate and rental and leasing [53],364.4
+2023-01-01,2023,1,"Professional, scientific and technical services [54]",1895.4
+2023-01-01,2023,1,"Business, building and other support services [55, 56]",693.6
+2023-01-01,2023,1,Educational services [61],1515.8
+2023-01-01,2023,1,Health care and social assistance [62],2696.7
+2023-01-01,2023,1,"Information, culture and recreation [51, 71]",847.8
+2023-01-01,2023,1,Accommodation and food services [72],1129.2
+2023-01-01,2023,1,Other services (except public administration) [81],768.3
+2023-01-01,2023,1,Public administration [91],1187.1
+2024-01-01,2024,1,"Total, all industries",20730.5
+2024-01-01,2024,1,Goods-producing sector,4194.9
+2024-01-01,2024,1,"Agriculture [111-112, 1100, 1151-1152]",231.7
+2024-01-01,2024,1,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",354.2
+2024-01-01,2024,1,"Forestry and logging and support activities for forestry [113, 1153]",42.0
+2024-01-01,2024,1,"Fishing, hunting and trapping [114]",15.4
+2024-01-01,2024,1,"Mining, quarrying, and oil and gas extraction [21, 2100]",296.8
+2024-01-01,2024,1,Utilities [22],153.0
+2024-01-01,2024,1,Construction [23],1607.3
+2024-01-01,2024,1,Manufacturing [31-33],1848.8
+2024-01-01,2024,1,"Durables [321, 327, 331-339]",1131.8
+2024-01-01,2024,1,"Non-durables [311-316, 322-326]",717.0
+2024-01-01,2024,1,Services-producing sector,16535.6
+2024-01-01,2024,1,"Wholesale and retail trade [41, 44-45]",2940.4
+2024-01-01,2024,1,Wholesale trade [41],715.0
+2024-01-01,2024,1,Retail trade [44-45],2225.4
+2024-01-01,2024,1,Transportation and warehousing [48-49],1086.6
+2024-01-01,2024,1,"Finance, insurance, real estate, rental and leasing [52, 53]",1424.3
+2024-01-01,2024,1,Finance and insurance [52],1034.9
+2024-01-01,2024,1,Real estate and rental and leasing [53],389.4
+2024-01-01,2024,1,"Professional, scientific and technical services [54]",1976.5
+2024-01-01,2024,1,"Business, building and other support services [55, 56]",707.0
+2024-01-01,2024,1,Educational services [61],1569.7
+2024-01-01,2024,1,Health care and social assistance [62],2819.5
+2024-01-01,2024,1,"Information, culture and recreation [51, 71]",843.4
+2024-01-01,2024,1,Accommodation and food services [72],1138.9
+2024-01-01,2024,1,Other services (except public administration) [81],801.4
+2024-01-01,2024,1,Public administration [91],1227.8
