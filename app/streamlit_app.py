@@ -428,52 +428,8 @@ if year_range[0] <= 2020 <= year_range[1]:
     fig4.add_vline(x=2020, line_dash="dash", line_color="#f43f5e",
                    opacity=0.6, annotation_text="COVID-19",
                    annotation_font_color="#f43f5e")
-fig4.update_layout(
-    **PLOTLY_LAYOUT,
-    height=420,
-    legend=dict(
-        orientation="h",
-        yanchor="top",
-        y=-0.2,
-        xanchor="left",
-        x=0,
-        bgcolor="rgba(0,0,0,0)",
-        font=dict(size=11)
-    ),
-    margin=dict(l=20, r=20, t=50, b=140),
-)
+fig4.update_layout(**PLOTLY_LAYOUT, height=420)
 st.plotly_chart(fig4, use_container_width=True)
-
-# Industry stats table below the chart
-latest_emp = employment_annual[employment_annual["year"] == year_range[1]]
-base_emp   = employment_annual[employment_annual["year"] == 2019]
-merged_emp = latest_emp.merge(base_emp[["industry", "avg_employed_thousands"]], on="industry", suffixes=("_latest", "_2019"))
-merged_emp = merged_emp[merged_emp["industry"].isin(top_industries)].copy()
-merged_emp["change_pct"] = ((merged_emp["avg_employed_thousands_latest"] - merged_emp["avg_employed_thousands_2019"]) / merged_emp["avg_employed_thousands_2019"] * 100).round(1)
-merged_emp = merged_emp.sort_values("avg_employed_thousands_latest", ascending=False)
-
-cols = st.columns(len(merged_emp))
-for i, (_, row) in enumerate(merged_emp.iterrows()):
-    label = row["industry"].split("[")[0].strip()
-    label = label[:22] + "…" if len(label) > 22 else label
-    change = row["change_pct"]
-    color  = "#22c55e" if change >= 0 else "#f43f5e"
-    arrow  = "▲" if change >= 0 else "▼"
-    with cols[i]:
-        st.markdown(f"""
-        <div style="background:#1a2035;border:1px solid #2a3555;border-radius:8px;
-                    padding:8px 6px;text-align:center;">
-            <div style="font-size:0.6rem;color:#7a8aaa;font-family:Inter;
-                        white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
-                        margin-bottom:4px;">{label}</div>
-            <div style="font-size:1rem;font-family:Syne;color:#e8e8e8;font-weight:700;">
-                {row["avg_employed_thousands_latest"]:,.0f}k
-            </div>
-            <div style="font-size:0.75rem;color:{color};font-family:Inter;">
-                {arrow} {abs(change)}% vs 2019
-            </div>
-        </div>
-        """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
 # Key Findings
