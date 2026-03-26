@@ -65,4 +65,5 @@ if __name__ == "__main__":
     print("Fetching StatCan datasets...\n")
     for name, pid in TABLES.items():
         download_table(name, pid)
+        print(name, pid)
     print("\nAll datasets saved to data/raw/")
